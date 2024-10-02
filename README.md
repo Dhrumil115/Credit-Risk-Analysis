@@ -1,6 +1,5 @@
 # Credit Risk Analysis
 
-## Introduction
 Credit risk analysis is an essential component of modern financial services, enabling lenders to predict the likelihood of borrowers defaulting on their loans. This project aims to utilize data-driven techniques to assess credit risk by developing machine learning models. The analysis helps lenders better understand patterns in loan data and make more informed credit decisions.
 ## Abstract
 In this project, we carried out a detailed analysis of credit risk by applying machine learning models on a curated dataset. After performing data cleaning, exploratory data analysis (EDA), and feature engineering, we built several models including Random Forest, Decision Tree, and Logistic Regression. Among these, the Random Forest classifier achieved the highest accuracy of 95%. The project highlights the importance of features such as loan amount, interest rates, and annual income in predicting loan defaults, providing valuable insights for optimizing credit risk strategies.
