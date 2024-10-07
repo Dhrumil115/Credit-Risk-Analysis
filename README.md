@@ -29,7 +29,7 @@ The cleaned dataset (`Cleaned_CreditRisk_Loan.csv`) is included in the repositor
 
 During EDA, we visualized the distribution of loan amounts, interest rates, and annual income. Correlation analysis was performed to examine relationships between variables.
 
-Sample visualizations:
+Visualizations:
 - Loan Amount vs Interest Rate
 - Correlation Matrix
 - Home Ownership Distribution
